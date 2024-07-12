@@ -33,8 +33,5 @@
     "mocha": "^3.0.2",
     "underscore": "^1.8.3",
     "yeoman-test": "^1.0.0"
-  },
-  "peerDependencies": {
-    "yo": ">=1.0.0"
   }
 }
